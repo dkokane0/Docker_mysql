@@ -16,23 +16,27 @@
 ```
 
 ## Getting Started
-<h2>
+<h3>
 
 1. Clone the project
 
 2. make build
-![](./images/make_build.png)
+
+ ![](./images/make_build.png)
 
 3. make run
-![](./images/make_run.png)
+
+ ![](./images/make_run.png)
 
 4. Please make sure that container is running successfully by using `docker ps` command
-![](./images/docker_ps.png)
+
+ ![](./images/docker_ps.png)
 
 5. make exec
-![](./images/make_exec_run.png)
 
-</h2>
+ ![](./images/make_exec_run.png)
+
+</h3>
 
 ## See all Docker images
 ![](./images/see_docker_image.png)
