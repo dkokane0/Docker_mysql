@@ -1,6 +1,6 @@
 <h1> Docker_mysql   </h1>
  
-<h1><pre>               Assignment_II       </pre></h1>
+<h1><pre>                    Assignment_II       </pre></h1>
 
 # Dockerfile_Build image with loaded MySQL schema
 
@@ -12,14 +12,14 @@
 ```
 1. make build => builds image from the Dockerfile
 2. make run   => create and start container from the built image
-3. make exec  => to go inside created container
+3. make exec  => go inside created container and execute
 ```
 
 ## Getting Started
 <h3>
 
 1. Clone the project
-
+   using : git clone https://github.com/dkokane0/Docker_mysql.git
 2. make build
 
  ![](./images/make_build.png)
